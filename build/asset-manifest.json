@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b1f7258.chunk.css",
+    "main.js": "/static/js/main.a0899cce.chunk.js",
+    "main.js.map": "/static/js/main.a0899cce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dc82ea0e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dc82ea0e.js.map",
+    "static/css/2.f5fd59b3.chunk.css": "/static/css/2.f5fd59b3.chunk.css",
+    "static/js/2.51b779cd.chunk.js": "/static/js/2.51b779cd.chunk.js",
+    "static/js/2.51b779cd.chunk.js.map": "/static/js/2.51b779cd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f5fd59b3.chunk.css.map": "/static/css/2.f5fd59b3.chunk.css.map",
+    "static/css/main.9b1f7258.chunk.css.map": "/static/css/main.9b1f7258.chunk.css.map",
+    "static/js/2.51b779cd.chunk.js.LICENSE.txt": "/static/js/2.51b779cd.chunk.js.LICENSE.txt",
+    "static/media/ava-01.53d4b552.png": "/static/media/ava-01.53d4b552.png",
+    "static/media/ava-01.7bca9cdb.png": "/static/media/ava-01.7bca9cdb.png",
+    "static/media/ava-02.64678cea.png": "/static/media/ava-02.64678cea.png",
+    "static/media/ava-03.b6026dbe.png": "/static/media/ava-03.b6026dbe.png",
+    "static/media/ava-04.7aed6c74.png": "/static/media/ava-04.7aed6c74.png",
+    "static/media/ava-05.5fb1548c.png": "/static/media/ava-05.5fb1548c.png",
+    "static/media/ava-06.740f4220.png": "/static/media/ava-06.740f4220.png",
+    "static/media/common-section.css": "/static/media/bg.d631560b.jpg",
+    "static/media/hero.df9dedd3.webp": "/static/media/hero.df9dedd3.webp",
+    "static/media/img-01.068d95a3.png": "/static/media/img-01.068d95a3.png",
+    "static/media/img-01.08f9fcfa.jpg": "/static/media/img-01.08f9fcfa.jpg",
+    "static/media/img-02.0e65b7b8.png": "/static/media/img-02.0e65b7b8.png",
+    "static/media/img-04.00c65769.png": "/static/media/img-04.00c65769.png",
+    "static/media/img-05.2339bf2b.png": "/static/media/img-05.2339bf2b.png",
+    "static/media/img-06.b4010239.png": "/static/media/img-06.b4010239.png",
+    "static/media/img-07.2fc24c7b.png": "/static/media/img-07.2fc24c7b.png",
+    "static/media/img-08.908fda50.png": "/static/media/img-08.908fda50.png",
+    "static/media/img-09.4e57d468.png": "/static/media/img-09.4e57d468.png",
+    "static/media/remixicon.css": "/static/media/remixicon.f2616f59.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc82ea0e.js",
+    "static/css/2.f5fd59b3.chunk.css",
+    "static/js/2.51b779cd.chunk.js",
+    "static/css/main.9b1f7258.chunk.css",
+    "static/js/main.a0899cce.chunk.js"
+  ]
+}

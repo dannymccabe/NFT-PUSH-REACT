@@ -1,0 +1,45 @@
+:root {
+  --active-link: #0ba5e9;
+  --gradient-text: radial-gradient(circle, rgba(11,165,233,1) 0%, rgba(252,70,107,1) 100%);;
+  --body-color: #10172a;
+  --card-color: #1e293b;
+  --text-white: #fff;
+}
+
+.single__step__item {
+  background: var(--card-color);
+  border-radius: 5px;
+  padding: 30px;
+}
+
+.step__title {
+  color: #fff;
+}
+
+.step__item__content h5 a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.single__step__item span i {
+  color: #fff;
+  padding: 15px;
+  font-size: 1.5rem;
+  background: var(--active-link);
+  border-radius: 5px;
+}
+
+.step__item__content {
+  margin-top: 20px !important;
+}
+
+@media only screen and (max-width: 992px) {
+  .step__item__content h5 a {
+    font-size: 1rem;
+  }
+
+  .single__step__item p {
+    font-size: 0.8rem;
+    line-height: 25px;
+  }
+}

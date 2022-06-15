@@ -1,0 +1,29 @@
+:root {
+  --active-link: #0ba5e9;
+  --gradient-text: radial-gradient(circle, rgba(11,165,233,1) 0%, rgba(252,70,107,1) 100%);;
+  --body-color: #10172a;
+  --card-color: #1e293b;
+  --text-white: #fff;
+}
+
+.all__category__filter select,
+.all__items__filter select,
+.filter__right select {
+  padding: 8px 25px;
+  font-size: 0.9rem;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: var(--body-color);
+  border-radius: 5px;
+}
+
+@media only screen and (max-width: 768px) {
+  .all__category__filter select,
+  .all__items__filter select,
+  .filter__right select {
+    padding: 5px 20px;
+    font-size: 0.6rem;
+  }
+}
