@@ -1,7 +1,7 @@
 # NFT Marketplace - P U S H
 I built this website as a portfolio showpiece. I used a variety of new tools and different techniques whereever I could. This project has taken me quite a substantial amount of time so I hope you enjoy it. 
 
-to see it live 👉 https://nft-marketplace-push.netlify.app/home (you may need to clikc 'back to site' to reach it - working on a resolve)
+to see it live 👉 https://nft-marketplace-push.netlify.app/home (you may need to click 'back to site' to reach it - working on a resolve)
 
 ## 🔧 How It Was Made
 - ⚛ React - Hooks
