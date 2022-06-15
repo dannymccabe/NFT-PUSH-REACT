@@ -20,10 +20,10 @@ I modelled the colour palette off tailwindcss.com because I love the colours.
 ### Mobile 
 ![mobile view](src/assets/images1/mobile-view.png)
 
-## Try if yourself...
-* Clone the repo
-* npm install
-* npm start
+## Try it yourself...
+### `git clone ...`
+### `npm install`
+### `npm start`
 
 
 ## What I Learned
