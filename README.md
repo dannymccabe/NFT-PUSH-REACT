@@ -26,7 +26,7 @@ I modelled the colour palette off tailwindcss.com because I love the colours.
 ### `npm start`
 
 
-## What I Learned
+## 🧠 What I Learned
 - [x] Setting a gradient background to text
 - [x] Integrating and using bootstrap with React
 - [x] Structuring folders more appropriately
